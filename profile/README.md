@@ -1,6 +1,4 @@
-# Introduction
-
-Subtrant is a student-led tech group bringing together those passionate about technology and innovation. We’re a self-made crew focused on collaborating and building cool projects, step by step.
+A student-led tech group bringing together those passionate about technology and innovation. We’re a self-made crew focused on collaborating and building cool projects, step by step.
 
 # What We Do
 
